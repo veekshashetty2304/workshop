@@ -1,0 +1,32 @@
+.btn,.answer,.commonnum,.num2
+{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    background-color: rgb(0, 174, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid whitesmoke;
+    
+    
+}
+body
+{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+}
+#op
+{
+    height: 25px;
+    width: 32px;
+    font-size: 22px;
+}
+#txt
+{
+    background-color:(6, 7, 7);
+    color: rgb(14, 14, 15);
+    background-color: blanchedalmond;
+    font-size: 28px;
+    width: 400px;
+    height: 33px;
+}
